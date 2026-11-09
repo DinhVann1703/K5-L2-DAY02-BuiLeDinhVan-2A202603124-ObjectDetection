@@ -4,12 +4,12 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
+- Họ tên:Bùi Lê Đình Văn
+- MSSV:2A202603124
+- Email:builedinhvan@gmail.com
 - Lớp:
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Link repo bài làm:https://github.com/DinhVann1703/K5-L2-DAY02-BuiLeDinhVan-2A202603124-ObjectDetection
+- Link Colab đã chạy:https://colab.research.google.com/drive/1rPk3j-tZBFt3YjzBpK8r4rs1TlmSwcif?hl=vi#scrollTo=6f78b880
 
 ## 2. Schema và mini guideline
 
